@@ -73,6 +73,7 @@
 		523FBF4525E49FCB00D4EC83 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 523FBF4325E49FCB00D4EC83 /* README.md */; };
 		523FBF9025E4A20B00D4EC83 /* GoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523FBF8F25E4A20B00D4EC83 /* GoCell.swift */; };
 		523FBF9125E4A20C00D4EC83 /* GoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523FBF8F25E4A20B00D4EC83 /* GoCell.swift */; };
+		52D73D0625E815190009E7F2 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0AEEB2B122F670220007604F /* GoogleService-Info.plist */; };
 		5E0E6B7FA13513148A248471 /* (null) in Frameworks */ = {isa = PBXBuildFile; };
 		64B42E79C55BF83C8DF0D009 /* Pods_Go_QA.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C515C2FDC10C2FAF62FBCA96 /* Pods_Go_QA.framework */; };
 		9CACA21B81D68966D49125AF /* Pods_GoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4804208AE748C05926085DA1 /* Pods_GoTests.framework */; };
@@ -450,6 +451,7 @@
 				523FBF4525E49FCB00D4EC83 /* README.md in Resources */,
 				0AF1FB4E22F66A0F00BB2564 /* Assets.xcassets in Resources */,
 				0AF1FB4F22F66A0F00BB2564 /* Main.storyboard in Resources */,
+				52D73D0625E815190009E7F2 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
